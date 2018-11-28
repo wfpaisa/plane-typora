@@ -5,9 +5,10 @@
 
 # PLANE-TYPORA THEME
 
-A beautiful theme for Tilix, more information in [Plane project](https://github.com/wfpaisa/plane).
+A beautiful theme for Typora, more information in [Plane project](https://github.com/wfpaisa/plane).
 
 <div align="center">
+<img src="assets/screenshot.png" />
 <img src="assets/screenshot-01.gif" />
 <img src="assets/screenshot-02.gif" />
 <img src="assets/screenshot-03.gif" />
@@ -15,9 +16,8 @@ A beautiful theme for Tilix, more information in [Plane project](https://github.
 </div>
 
 ## Install
-1. Download `plane-dark.json` in `~/.config/tilix/schemes/plane-dark.json`.
-2. Open: Tilix -> Preferences -> Profiles -> default -> Color -> Color scheme | choose: Plane dark.
-
+1. Download `plane-dark.css` in `~/.config/Typora/themes`.
+2. Open: Typora -> Themes | choose: Plane dark.
 
 
 ## License
